@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi there, I'm tacio 👋
+
+Welcome!
+
+
+## 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/-Data%20Engineering-008080?style=flat&logo=data&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 <!--
-**tacio/tacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Projects
 
-Here are some ideas to get you started:
+### ⚙️ Machine Learning
+- Embeddings for structured data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🔧 Data Engineering
+- 
+
+### 🕹️ GameDev
+- Counter Spell
+- Slap Last
 -->
+
+## 🌱 Currently Learning
+- Rust
+- Data Vault 2.0
+- Apache Beam
+
+## 💬 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/taciomedeiros)
+- [Twitter](https://twitter.com/tacio)
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tacio&show_icons=true&theme=radical)
+
+Yeah, I got lucky to grab this handle early on (and back then, I was on team Mercurial 🤫)
