@@ -1,39 +1,20 @@
-## Hi there, I'm tacio 👋
+# Tacio Medeiros
 
-Welcome!
+I build practical and experimental software across data, AI, and systems — from neuro-symbolic reasoning engines and acoustic protocols to small tools that explore unusual interfaces.
 
+**Core stack:** Python · Rust · Mojo · SQL  
+**Focus:** Data engineering · Machine learning · Neuro-symbolic AI · Systems experiments
 
-## 🛠️ Technologies & Tools
+## Selected work
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/-Data%20Engineering-008080?style=flat&logo=data&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+- **[Esper](https://github.com/tacio/esper)** — a bare-metal neuro-symbolic reasoning engine in Mojo exploring Nested Learning, evolution strategies, and held-out evaluation on ARC-AGI 2.
+- **[ByteWaves](https://github.com/tacio/bytewaves)** — a tested Python acoustic modem with MFSK modulation, Reed–Solomon error correction, adaptive equalization, and CI.
+- **[Amountomatic](https://github.com/tacio/amountomatic)** — a tactile, mobile-friendly amount input built as a dependency-free HTML file with no build step.
+- **[Joyboard](https://github.com/tacio/joyboard)** — a published Python tool that turns a game controller into a compact, chord-inspired keyboard interface.
+- **[Comma Sequence](https://github.com/tacio/comma_seq)** — a Rust implementation of the integer sequence [OEIS A121805](https://oeis.org/A121805).
 
-<!--
-## 📌 Projects
+## Connect
 
-### ⚙️ Machine Learning
-- Embeddings for structured data
+[LinkedIn](https://www.linkedin.com/in/taciomedeiros) · [X](https://x.com/tacio)
 
-### 🔧 Data Engineering
-- 
-
-### 🕹️ GameDev
-- Counter Spell
-- Slap Last
--->
-
-## 🌱 Currently Learning
-- Rust
-- Data Vault 2.0
-- Apache Beam
-
-## 💬 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/taciomedeiros)
-- [Twitter](https://twitter.com/tacio)
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tacio&show_icons=true&theme=radical)
-
-Yeah, I got lucky to grab this handle early on (and back then, I was on team Mercurial 🤫)
+I got lucky and claimed this handle early — back when I was still on team Mercurial. 🤫
